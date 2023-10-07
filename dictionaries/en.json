@@ -1,0 +1,69 @@
+{
+    "header": {
+        "menuLink1": "Shops",
+        "menuLink2": "Restaurants",
+        "menuLink3": "Services",
+        "menuLink4": "Entertainment",
+        "menuLink5": "Announcements",
+        "menuLink6": "Contacts",
+        "map": "Map of the mall"
+    },
+    "bar": {
+        "back": "Back",
+        "link1": "Port Mall Shopping Center",
+        "link2": "Main Events",
+        "link3": "Special Offers"
+    },
+    "new": {
+        "title": "Week of Discounts on Summer Kids' Clothing and Footwear - Hurry Up and Buy"
+    },
+    "description": {
+        "paragraph1": "Summer is the time for sun and incredible discounts! SUMMER SALE with discounts up to -80% continues at Port Mall Shopping Center. It's an amazing opportunity to refresh your wardrobe: choose the most beautiful dresses, trendy clothes, fashionable accessories, and footwear with unbelievable discounts!",
+        "paragraph2": "Don't miss the chance to make crazy purchases!",
+        "title": "Brands Participating in the Promotion",
+        "descriptionItem1": "Baby Clothing Store - Kimkids",
+        "descriptionItem2": "Everyday Children's Clothing Boutique - Solby",
+        "descriptionItem3": "Home Clothing Store for Kids - Bebeton",
+        "descriptionItem4": "Toys and Children's Products Store - Chicco",
+        "descriptionItem5": "Teen Clothing Store - Reima",
+        "paragraph3": "The summer vibe continues, and along with it, the musical drive! So, we invite everyone to the coolest SUMMER MUSIC FESTIVAL at Port Mall Shopping Center!",
+        "paragraph4": "Groovy electronic music will light up your hearts, and cool DJs: Dj Antai, Dj Kinree, DJ Evka, MC Nastya Chornychna will provide unforgettable experiences...",
+        "button": "Buy a Ticket"
+    },
+    "event": {
+        "title": "Week of Discounts on Summer Kids' Clothing and Shoes - Grab the Opportunity to Buy",
+        "paragraph1": "Summer is the time of sun and incredible discounts! SUMMER SALE with discounts up to -80% continues at Port Mall Shopping Center. It's an amazing chance to refresh your wardrobe: choose the most beautiful dresses, trendy clothes, fashionable accessories, and shoes with incredible discounts!",
+        "paragraph2": "Don't miss the opportunity to make crazy purchases!",
+        "paragraph3": "The summer vibe continues, along with the musical drive! So, we invite everyone to the coolest SUMMER MUSIC FESTIVAL at Port Mall Shopping Center! Rhythmic electronic music will ignite your hearts, and the cool DJs: Dj Antai, Dj Kinree, DJ Evka, MC Nastya Chornychna will give you unforgettable experiences...",
+        "quote": "It's an amazing chance to refresh your wardrobe: choose the most beautiful dresses, fashionable accessories, and shoes!",
+        "quoteAuthor": "Andrei Vasiliev, stylist"
+    },
+    "share": {
+        "title": "Share"
+    },
+    "sales": {
+        "title": "Other Promotions",
+        "button": "View All",
+        "tag1": "Events",
+        "tag2": "News",
+        "tag3": "Sales",
+        "slideTitle1": "Week of Discounts on Summer Kids' Clothing and Shoes - Hurry, Buy Now",
+        "slideTitle2": "Week of Discounts on Summer Kids' Clothing and Shoes"
+    },
+    "footer": {
+        "placeholder": "Your e-mail",
+        "newsletterTitle": "Subscribe to Newsletter",
+        "info1": "Chisinau, 42/6 Mihail Sadoveanu Street",
+        "info2": "10:00 AM - 10:00 PM",
+        "link1": "Stores",
+        "link2": "Restaurants",
+        "link3": "Services",
+        "link4": "Entertainment",
+        "link5": "News and Discounts",
+        "link6": "About Us",
+        "link7": "Careers",
+        "link8": "For Tenants",
+        "link9": "Contact",
+        "privacyTitle": "Privacy Policy"
+    }
+}

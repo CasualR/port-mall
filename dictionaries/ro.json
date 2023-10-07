@@ -1,0 +1,70 @@
+{
+    "header": {
+        "menuLink1": "Magazine",
+        "menuLink2": "Restaurante",
+        "menuLink3": "Servicii",
+        "menuLink4": "Distracții",
+        "menuLink5": "Evenimente",
+        "menuLink6": "Contact",
+        "map": "Harta Mall-ului"
+    },
+    "bar": {
+        "back": "Înapoi",
+        "link1": "Centrul Comercial Port Mall",
+        "link2": "Evenimente principale",
+        "link3": "Oferte"
+    },
+    "new": {
+        "title": "Săptămâna reducerilor la îmbrăcăminte și încălțăminte de vară pentru copii - grăbește-te să cumperi",
+        "share": "Partajează"
+    },
+    "description": {
+        "paragraph1": "Vara este momentul soarelui și reducerilor incredibile! REDUCERI DE VARĂ de până la -80% continuă în centrul comercial Port Mall. Este o oportunitate incredibilă de a-ți actualiza garderoba: alege cele mai frumoase rochii, hainele la modă, accesorii trendy și încălțăminte cu reduceri incredibile!",
+        "paragraph2": "Nu ratați ocazia de a face cumpărături nebunești!",
+        "title": "Brandurile care participă la promoție",
+        "descriptionItem1": "Magazin de haine pentru sugari - Kimkids",
+        "descriptionItem2": "Boutique cu haine de zi cu zi pentru copii - Solby",
+        "descriptionItem3": "Magazin de îmbrăcăminte pentru casă pentru copii - Bebeton",
+        "descriptionItem4": "Magazin de jucării și produse pentru copii - Chicco",
+        "descriptionItem5": "Magazin de îmbrăcăminte pentru adolescenți - Reima",
+        "paragraph3": "Vibe-ul verii continuă, iar odată cu el și ritmul muzical! Prin urmare, vă invităm la cel mai tare FESTIVAL MUZICAL DE VARĂ din centrul comercial Port Mall!",
+        "paragraph4": "Muzica electronică ritmică va face inimile voastre să bată mai tare, iar DJ-ii grozavi: Dj Antai, Dj Kinree, DJ Evka, MC Nastya Chornychna vă vor oferi experiențe de neuitat...",
+        "button": "Cumpără un bilet"
+    },
+    "event": {
+        "title": "Săptămâna reducerilor la haine și încălțăminte de vară - grăbește-te să cumperi",
+        "paragraph1": "Vara - timpul soarelui și al reducerilor incredibile! REDUCERILE DE VARĂ cu discounturi de până la -80% continuă în centrul comercial Port Mall. Este o ocazie incredibilă de a-ți actualiza garderoba: alege cele mai frumoase rochii, hainele la modă, accesorii și încălțăminte cu reduceri incredibile!",
+        "paragraph2": "Nu rata șansa de a face cumpărături nebunești!",
+        "paragraph3": "Vibe-ul verii continuă, iar odată cu el și distracția muzicală! Așadar, vă invităm pe toți la cel mai tare FESTIVAL DE MUZICĂ DE VARĂ din centrul comercial Port Mall! Muzica electronică ritmată îți va încălzi inimile, iar DJ-ii cool: Dj Antai, Dj Kinree, DJ Evka, MC Nastya Chornychna îți vor oferi experiențe de neuitat...",
+        "quote": "Este o ocazie incredibilă de a-ți actualiza garderoba: alege cele mai frumoase rochii, accesorii la modă și încălțăminte!",
+        "quoteAuthor": "Andrei Vasiliev, stilist"
+    },
+    "share": {
+        "title": "Partajează"
+    },
+    "sales": {
+        "title": "Alte Promotii",
+        "button": "Vezi Toate",
+        "tag1": "Evenimente",
+        "tag2": "Știri",
+        "tag3": "Reduceri",
+        "slideTitle1": "Săptămâna Reducerilor la Haine și Încălțăminte de Vară pentru Copii - Grăbește-te, Cumpără Acum",
+        "slideTitle2": "Săptămâna Reducerilor la Haine și Încălțăminte de Vară pentru Copii"
+    },
+    "footer": {
+        "placeholder": "Adresa ta de e-mail",
+        "newsletterTitle": "Abonează-te la Newsletter",
+        "info1": "Chișinău, str. Mihail Sadoveanu 42/6",
+        "info2": "10:00 - 22:00",
+        "link1": "Magazine",
+        "link2": "Restaurante",
+        "link3": "Servicii",
+        "link4": "Divertisment",
+        "link5": "Știri și Reduceri",
+        "link6": "Despre Noi",
+        "link7": "Locuri de Muncă",
+        "link8": "Pentru Chiriași",
+        "link9": "Contactează-ne",
+        "privacyTitle": "Politica de Confidențialitate"
+    }
+}
