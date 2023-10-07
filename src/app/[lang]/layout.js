@@ -17,11 +17,14 @@ export default function RootLayout({ children, params }) {
 
     return (
         <html lang={params.lang}>
+            <head>
+                <link rel="icon" href="/images/icon.png" />
+            </head>
             <body>
                 <div className='wrapper'>
                     <Header passedValue={params} />
                     {children}
-                    <Footer passedValue={params}/>
+                    <Footer passedValue={params} />
                 </div>
             </body>
         </html>

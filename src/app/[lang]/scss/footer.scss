@@ -111,8 +111,14 @@
 
         background-color: $gold;
 
+        transition: all 0.3s ease 0s;
+
         img {
             width: 7px;
+        }
+
+        &:hover {
+            background-color: $golddark;
         }
     }
 }
@@ -183,6 +189,12 @@
     font-weight: 400;
     line-height: 110%;
     letter-spacing: -0.14px;
+
+    transition: all 0.3s ease 0s;
+
+    &:hover {
+        color: $gold;
+    }
 }
 
 .footer-privacy {

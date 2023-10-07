@@ -45,7 +45,7 @@ const SalesSwiper = (props) => {
                     }}
                 >
                     <SwiperSlide>
-                        <div className='slide__container'>
+                        <a href="#" className='slide__container'>
                             <Image src="/images/sales_swiper_img_1.png" className="slide__img" alt='' width={402} height={402} />
                             <div className="slide__info">
                                 <div className="slide__tag">
@@ -55,10 +55,10 @@ const SalesSwiper = (props) => {
                                 <div className="slide__title">{lang.sales.slideTitle1}</div>
                                 <div className="slide__date">30.06.2023 - 30.07.2023</div>
                             </div>
-                        </div>
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className='slide__container'>
+                        <a href="#" className='slide__container'>
                             <Image src="/images/sales_swiper_img_2.png" className="slide__img" alt='' width={402} height={402} />
                             <div className="slide__info">
                                 <div className="slide__tag">
@@ -68,10 +68,10 @@ const SalesSwiper = (props) => {
                                 <div className="slide__title">{lang.sales.slideTitle2}</div>
                                 <div className="slide__date">30.06.2023 - 30.07.2023</div>
                             </div>
-                        </div>
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className='slide__container'>
+                        <a href="#" className='slide__container'>
                             <Image src="/images/sales_swiper_img_3.png" className="slide__img" alt='' width={402} height={402} />
                             <div className="slide__info">
                                 <div className="slide__tag">
@@ -81,10 +81,10 @@ const SalesSwiper = (props) => {
                                 <div className="slide__title">{lang.sales.slideTitle1}</div>
                                 <div className="slide__date">30.07.2023</div>
                             </div>
-                        </div>
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className='slide__container'>
+                        <a href="#" className='slide__container'>
                             <Image src="/images/sales_swiper_img_1.png" className="slide__img" alt='' width={402} height={402} />
                             <div className="slide__info">
                                 <div className="slide__tag">
@@ -94,10 +94,10 @@ const SalesSwiper = (props) => {
                                 <div className="slide__title">{lang.sales.slideTitle1}</div>
                                 <div className="slide__date">30.06.2023 - 30.07.2023</div>
                             </div>
-                        </div>
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className='slide__container'>
+                        <a href="#" className='slide__container'>
                             <Image src="/images/sales_swiper_img_2.png" className="slide__img" alt='' width={402} height={402} />
                             <div className="slide__info">
                                 <div className="slide__tag">
@@ -107,10 +107,10 @@ const SalesSwiper = (props) => {
                                 <div className="slide__title">{lang.sales.slideTitle1}</div>
                                 <div className="slide__date">30.06.2023 - 30.07.2023</div>
                             </div>
-                        </div>
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className='slide__container'>
+                        <a href="#" className='slide__container'>
                             <Image src="/images/sales_swiper_img_3.png" className="slide__img" alt='' width={402} height={402} />
                             <div className="slide__info">
                                 <div className="slide__tag">
@@ -120,7 +120,7 @@ const SalesSwiper = (props) => {
                                 <div className="slide__title">{lang.sales.slideTitle1}</div>
                                 <div className="slide__date">30.07.2023</div>
                             </div>
-                        </div>
+                        </a>
                     </SwiperSlide>
                 </Swiper>
             </div>
