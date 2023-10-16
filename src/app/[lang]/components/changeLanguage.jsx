@@ -9,21 +9,21 @@ import Image from 'next/image';
 const ChangeLanguage = (props) => {
     const { locales, defaultLocale } = i18n;
     const myElementRef = useRef(null);
-
+    
     const curPathname = usePathname()
     const router = useRouter();
-
+    
     const handleLanguageChange = (newLanguage) => {
         // Получаем текущий путь URL без языкового параметра (если он существует)
         const currentPath = curPathname.replace(/\/(en|ru|ro)/, '');
-
+        
         // Обновляем путь URL, добавляя новый языковый параметр
         const newPath = `/${newLanguage}${currentPath}`;
-
+        
         // Перенаправляем пользователя на новый путь URL
         router.push(newPath);
     };
-
+    
     useEffect(() => {
         let items = document.querySelectorAll('.select_item');
 

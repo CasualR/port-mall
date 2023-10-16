@@ -5,7 +5,7 @@ import SalesSwiper from './SalesSwiper';
 
 const MainSales = async (props) => {
     const lang = await getDictionary(props.passedValue.lang);
-
+    
     return (
         <>
             <div className="sales">
